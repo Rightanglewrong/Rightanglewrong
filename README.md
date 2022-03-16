@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rightanglewrong
-- 👀 I’m interested in changing careers
-- 🌱 I’m currently learning 
+- 👋 Hi, I’m Benny
+- 👀 I’m interested in learning to code
+- 🌱 I’m currently looking for caffeine
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 3_3_0_0@hotmail.com
 
