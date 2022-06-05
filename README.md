@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Benny
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently looking for caffeine
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 3_3_0_0@hotmail.com
+## ___Hi, I’m Benny___
+Recently changed careers from a Chef to Software Developer
+* Interested in delving deeping into the world of software engineering and creating responsive user focused applications
+* I’m looking to collaborate on projects with a focus in improving everyday life 
 
-<!---
-Rightanglewrong/Rightanglewrong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Portfolio Page Coming Soon
+
+Reach me at bennyyang996648@hotmail.com
